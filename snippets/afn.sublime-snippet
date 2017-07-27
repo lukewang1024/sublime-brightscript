@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function (${1}) as ${2}
+	${3}
+end function
+
+]]></content>
+	<tabTrigger>afn</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>Anonymous Function</description>
+</snippet>

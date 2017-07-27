@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+for each ${1} in ${2}
+	${3}
+end for
+
+]]></content>
+	<tabTrigger>foreach</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>for each loop</description>
+</snippet>

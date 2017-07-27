@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function (${1}) as Boolean
+	${2}
+end function
+
+]]></content>
+	<tabTrigger>afnb</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>Anonymous Fn as Boolean</description>
+</snippet>

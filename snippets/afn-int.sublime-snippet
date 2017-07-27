@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function (${1}) as Integer
+	${2}
+end function
+
+]]></content>
+	<tabTrigger>afni</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>Anonymous Fn as Integer</description>
+</snippet>

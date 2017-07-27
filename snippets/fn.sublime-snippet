@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function ${1:fn}(${2}) as ${3}
+	${4}
+end function
+
+]]></content>
+	<tabTrigger>fn</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>Function</description>
+</snippet>

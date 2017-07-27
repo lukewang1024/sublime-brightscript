@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function (${1}) as Dynamic
+	${2}
+end function
+
+]]></content>
+	<tabTrigger>afnd</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>Anonymous Fn as Dynamic</description>
+</snippet>

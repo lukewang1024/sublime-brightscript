@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function ${1:fn}(${2}) as Float
+	${3}
+end function
+
+]]></content>
+	<tabTrigger>fnf</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>Fn as Float</description>
+</snippet>

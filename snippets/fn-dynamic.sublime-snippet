@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function ${1:fn}(${2}) as Dynamic
+	${3}
+end function
+
+]]></content>
+	<tabTrigger>fnd</tabTrigger>
+	<scope>source.brightscript</scope>
+	<description>Fn as Dynamic</description>
+</snippet>
